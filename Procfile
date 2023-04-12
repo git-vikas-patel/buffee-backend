@@ -1,1 +1,1 @@
-web: gunicorn myapp.wsgi --log-file -
+ web gunicorn buffee_backend.wsgi.application --logofile - 
